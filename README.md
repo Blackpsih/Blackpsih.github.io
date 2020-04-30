@@ -1,4 +1,4 @@
-# Solid
+# Blackpsih
 
 A landing page template.
 
